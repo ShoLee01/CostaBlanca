@@ -107,7 +107,7 @@ body{
 }
 .cont-img{
     margin-top: 15vh;
-    background-image: url("/images/logosf2.svg");
+    background-image: url("../images/logosf2.svg");
     width: 60%;
     height: 60%;
     background-repeat: no-repeat;
