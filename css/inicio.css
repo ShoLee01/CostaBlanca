@@ -37,7 +37,7 @@ body{
 }
 
 .navbar-logo{
-    background-image: url("/images/logosf.svg");
+    background-image: url("../images/logosf.svg");
     padding: 20px;
     margin-left: 10px;
     width: 40%;
