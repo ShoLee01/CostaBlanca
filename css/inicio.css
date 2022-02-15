@@ -137,7 +137,7 @@ body{
 }
 .cont-img2{
    
-    background-image: url("/images/LogoFood.svg");
+    background-image: url("../images/LogoFood.svg");
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
